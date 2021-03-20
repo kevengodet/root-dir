@@ -1,0 +1,17 @@
+{
+  "name": "keven/root-dir",
+  "description": "Automagically find the root of the current PHP project",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Keven Godet",
+      "email": "hello@keven.fr"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/rootDir.php"
+    ]
+  }
+}
